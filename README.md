@@ -1,2 +1,2 @@
 # git-test-blentai
-Test git pour le cours Blent
+Nous travaillons sur les branches de Git !
